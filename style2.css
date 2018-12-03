@@ -1,0 +1,49 @@
+body {
+    background-image: url("../images/jeune.jpg");
+    width: 100%
+}
+
+.headerForm {
+    background-color: orangered;
+    color: white;
+    height: 5%;
+    display: flex;
+    justify-content: center;
+} 
+
+.inscription {
+    margin-top: 12px;
+    text-transform: uppercase;
+}
+
+.nom  {
+    display: flex;
+    flex-direction: column;
+}
+
+
+
+.form  {
+    background-color: #bbbbbb;
+    margin-top: 10%;
+    margin-right: 10%;
+    margin-left: 10%;
+    padding-bottom: 20%;
+    
+
+}
+
+.formContainer {
+    display: flex;
+    justify-content: space-around;
+}
+
+.leftContainer {
+
+    line-height: 30px;
+    width: 23%;    
+}
+
+.selectContainer {
+    display: flex;
+}
